@@ -6,6 +6,19 @@ let firstName = undefined;
 let selectedColor = null;
 
 
+let firstName = "UnitedSolution";
+console.log(firstName[0]);
+//length of string stars from 1
+// both counts spaces too
+//index of string starts from 0
+
+
+console.log(firstName.length)
+console.log(firstName[firstName.length-1])
+//last index : length -1
+
+ 
+
 
 //non primitive
 //Objects are variables that can store both values and functions Objects are one of the most important concepts in JavaScript
@@ -49,3 +62,5 @@ function square(number) {
 
 let number = square(2);
 // console.log(number);
+
+//string indexing
