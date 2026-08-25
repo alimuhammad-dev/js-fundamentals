@@ -50,3 +50,4 @@
 // console.log(i);//even if the condition is false the loop will atleast once
 //   i++;
 // } while (i <= 9);
+
